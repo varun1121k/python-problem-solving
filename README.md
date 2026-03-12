@@ -1,24 +1,44 @@
-# Python Problem Solving
+# Python Problem Solving Practice
 
-This repository contains my daily Python problem solving practice.
+This repository contains my daily Python problem-solving practice.
+I solve multiple problems every day to improve logic building, programming skills, and preparation for technical interviews.
 
-## Goals
-- Improve problem solving skills
-- Strengthen Python fundamentals
-- Build a consistent coding habit
+## Goal
 
-## Problems
+* Strengthen Python fundamentals
+* Improve problem-solving ability
+* Build consistency in coding
+* Document progress on GitHub
 
-| Day | Problem |
-|----|----|
-| Day 1 | Count positive, negative and zero numbers |
-| Day 1 | Second largest number in a list |
-| Day 1 | Numbers appearing only once in a list |
+---
 
-More problems will be added daily.
-Day 2
-- Reverse a number
-- Palindrome number
-- Sum of digits
-- Largest number in list
-- Fibonacci series
+## Problems Solved
+
+### Day 1
+
+* Count positive, negative, and zero numbers in a list
+* Find second largest number in a list
+* Find numbers appearing only once in a list
+* Basic problem solving practice
+
+### Day 2
+
+* Reverse a number
+* Check palindrome number
+* Sum of digits of a number
+* Find largest number in a list
+* Fibonacci series
+
+---
+
+## Technologies Used
+
+* Python
+
+---
+
+## Progress Strategy
+
+* Solve **3–5 problems daily**
+* Focus on logic building
+* Gradually move toward data structures and algorithm problems
