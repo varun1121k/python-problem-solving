@@ -26,7 +26,6 @@ I solve multiple problems every day to improve logic building, programming skill
 * Reverse a number
 * Check palindrome number
 * Sum of digits of a number
-* Find largest number in a list
 * Fibonacci series
 
 ---
