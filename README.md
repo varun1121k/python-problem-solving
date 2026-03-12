@@ -16,4 +16,9 @@ This repository contains my daily Python problem solving practice.
 | Day 1 | Numbers appearing only once in a list |
 
 More problems will be added daily.
-
+Day 2
+- Reverse a number
+- Palindrome number
+- Sum of digits
+- Largest number in list
+- Fibonacci series
