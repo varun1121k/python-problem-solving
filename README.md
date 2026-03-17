@@ -27,7 +27,12 @@ I solve multiple problems every day to improve logic building, programming skill
 * Check palindrome number
 * Sum of digits of a number
 * Fibonacci series
-
+---
+Day 3
+- Two Sum problem
+- Move all zeros to end of list
+- Check anagram strings
+- Binary search algorithm
 ---
 
 ## Technologies Used
