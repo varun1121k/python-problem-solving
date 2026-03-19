@@ -34,7 +34,12 @@ Day 3
 - Check anagram strings
 - Binary search algorithm
 ---
-
+Day 4
+- Find missing number in list
+- Find duplicates in list
+- Longest substring without repeating characters
+- Rotate list
+---
 ## Technologies Used
 
 * Python
