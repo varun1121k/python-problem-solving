@@ -40,6 +40,12 @@ Day 4
 - Longest substring without repeating characters
 - Rotate list
 ---
+Day 5
+- Subarray with given sum
+- Product of array except self
+- Maximum subarray sum (Kadane's Algorithm)
+- Fibonacci using recursion
+---
 ## Technologies Used
 
 * Python
