@@ -46,7 +46,13 @@ Day 5
 - Maximum subarray sum (Kadane's Algorithm)
 - Fibonacci using recursion
 ---
+Day 6
+- Valid parentheses (stack)
+- Prefix sum technique
+- Power of number using recursion
+- First non-repeating character
 ## Technologies Used
+---
 
 * Python
 
