@@ -53,6 +53,12 @@ Day 6
 - First non-repeating character
 ## Technologies Used
 ---
+Day 7
+- Longest consecutive sequence
+- Group anagrams
+- Container with most water
+- Subarray sum equals k
+---
 
 * Python
 
