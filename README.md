@@ -1,8 +1,9 @@
 # Python Problem Solving & DSA Journey 🚀
 
-This repository documents my daily progress in Python problem solving, data structures, and algorithm practice.
+🚀 Daily DSA practice + project-based learning journey toward software development roles.
 
-I consistently solve problems to improve logic building, coding skills, and prepare for technical interviews.
+This repository documents my daily progress in Python problem solving, data structures, and algorithm practice.
+I focus on building strong logic, writing clean code, and solving problems consistently.
 
 ---
 
@@ -13,23 +14,6 @@ I consistently solve problems to improve logic building, coding skills, and prep
 * Master Data Structures & Algorithms
 * Maintain consistency through daily practice
 * Transition from problem solving → real-world projects
-
----
-
-## 📌 Repository Structure
-
-```
-python-problem-solving/
-
-├── Day1/
-├── Day2/
-├── Day3/
-├── ...
-├── Projects/
-│   └── Student_Record_Manager/
-│       ├── main.py
-│       └── README.md
-```
 
 ---
 
@@ -133,14 +117,8 @@ A simple command-line application to manage student records.
 
 ---
 
-## 📅 Current Status
-
-* Completed: Day 7
-* Transitioning into: Intermediate problem-solving + projects
-
----
-
 ## 📌 Note
 
-This repository reflects my continuous learning journey.
-Each day focuses on improving both problem-solving ability and coding discipline.
+All problem files are currently organized using day-wise naming (day1_, day2_, etc.).
+This repository reflects my continuous learning journey focused on improving problem-solving ability and coding discipline.
+
