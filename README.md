@@ -68,6 +68,12 @@ I focus on building strong logic, writing clean code, and solving problems consi
 * Container with most water
 * Subarray sum equals k
 
+### Day 8
+
+* Top K frequent elements
+* Merge intervals
+* Find all anagrams in a string
+* Daily temperatures (stack)
 ---
 
 ## 🚀 Projects
