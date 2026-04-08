@@ -74,6 +74,13 @@ I focus on building strong logic, writing clean code, and solving problems consi
 * Merge intervals
 * Find all anagrams in a string
 * Daily temperatures (stack)
+
+### Day 9
+
+* Next greater element
+* Longest palindromic substring
+* Minimum size subarray sum
+* Search in rotated sorted array
 ---
 
 ## 🚀 Projects
@@ -96,6 +103,53 @@ A simple command-line application to manage student records.
 * Menu-driven program structure
 
 📁 Location: `Projects/Student_Record_Manager`
+
+---
+# Calculator CLI Project
+
+## Description
+
+A command-line based calculator that performs multiple mathematical operations using user input.
+
+This project is designed to practice logic building, function-based programming, and handling user interaction.
+
+---
+
+## Features
+
+* Addition of multiple numbers
+* Subtraction of multiple numbers
+* Multiplication of multiple numbers
+* Division with error handling
+* Percentage calculation
+* Power calculation
+* Menu-driven interface
+
+---
+
+## Technologies Used
+
+* Python
+
+---
+
+## How to Run
+
+1. Open terminal
+2. Navigate to the project folder
+3. Run the program:
+
+   python calculator_cli.py
+
+---
+
+## Learning Outcomes
+
+* Writing modular code using functions
+* Handling user input effectively
+* Building menu-driven programs
+* Implementing basic error handling
+
 
 ---
 
