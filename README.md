@@ -81,13 +81,14 @@ I focus on building strong logic, writing clean code, and solving problems consi
 * Longest palindromic substring
 * Minimum size subarray sum
 * Search in rotated sorted array
+
 ---
 
 ## 🚀 Projects
 
 ### 📌 Student Record Manager (CLI)
 
-A simple command-line application to manage student records.
+A command-line application to manage student records.
 
 **Features:**
 
@@ -105,51 +106,27 @@ A simple command-line application to manage student records.
 📁 Location: `Projects/Student_Record_Manager`
 
 ---
-# Calculator CLI Project
 
-## Description
+### 📌 Calculator CLI Project
 
-A command-line based calculator that performs multiple mathematical operations using user input.
+A command-line calculator that performs multiple mathematical operations.
 
-This project is designed to practice logic building, function-based programming, and handling user interaction.
+**Features:**
 
----
-
-## Features
-
-* Addition of multiple numbers
-* Subtraction of multiple numbers
-* Multiplication of multiple numbers
+* Addition, subtraction, multiplication
 * Division with error handling
 * Percentage calculation
 * Power calculation
 * Menu-driven interface
 
----
+**Concepts Used:**
 
-## Technologies Used
+* Functions
+* Loops and conditions
+* User input handling
+* Basic error handling
 
-* Python
-
----
-
-## How to Run
-
-1. Open terminal
-2. Navigate to the project folder
-3. Run the program:
-
-   python calculator_cli.py
-
----
-
-## Learning Outcomes
-
-* Writing modular code using functions
-* Handling user input effectively
-* Building menu-driven programs
-* Implementing basic error handling
-
+📁 Location: `Projects/Calculator_CLI`
 
 ---
 
