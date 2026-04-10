@@ -81,7 +81,13 @@ I focus on building strong logic, writing clean code, and solving problems consi
 * Longest palindromic substring
 * Minimum size subarray sum
 * Search in rotated sorted array
+  
+### Day 10
 
+* Longest increasing subsequence
+* Coin change (minimum coins)
+* Detect cycle (concept)
+* Kth largest element
 ---
 
 ## 🚀 Projects
