@@ -1,0 +1,13 @@
+# Day 11 - House Robber
+
+nums = [2,7,9,3,1]
+
+prev = 0
+curr = 0
+
+for num in nums:
+    temp = max(curr, prev + num)
+    prev = curr
+    curr = temp
+
+print("Max amount:", curr)
