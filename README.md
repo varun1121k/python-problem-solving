@@ -88,6 +88,13 @@ I focus on building strong logic, writing clean code, and solving problems consi
 * Coin change (minimum coins)
 * Detect cycle (concept)
 * Kth largest element
+
+### Day 11
+
+* House robber problem
+* Climbing stairs
+* Valid anagram (optimized)
+* Product of array except self (optimized)
 ---
 
 ## 🚀 Projects
