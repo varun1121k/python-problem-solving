@@ -95,6 +95,13 @@ I focus on building strong logic, writing clean code, and solving problems consi
 * Climbing stairs
 * Valid anagram (optimized)
 * Product of array except self (optimized)
+
+### Day 12
+
+* Longest common prefix
+* Majority element (Boyer-Moore)
+* Student class (OOP basics)
+* Bank account system (OOP)
 ---
 
 ## 🚀 Projects
