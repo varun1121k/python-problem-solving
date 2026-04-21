@@ -102,6 +102,13 @@ I focus on building strong logic, writing clean code, and solving problems consi
 * Majority element (Boyer-Moore)
 * Student class (OOP basics)
 * Bank account system (OOP)
+
+### Day 13
+
+* Set matrix zeroes
+* Spiral matrix traversal
+* Bank account (encapsulation)
+* Library management system (OOP)
 ---
 
 ## 🚀 Projects
