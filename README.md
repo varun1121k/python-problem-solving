@@ -162,7 +162,7 @@ A command-line calculator that performs multiple mathematical operations.
 * Python
 
 ---
-# Student Management System
+### 📌Student Management System
 
 A beginner OOP project built in Python.
 
