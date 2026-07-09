@@ -162,6 +162,28 @@ A command-line calculator that performs multiple mathematical operations.
 * Python
 
 ---
+# Student Management System
+
+A beginner OOP project built in Python.
+
+## Features
+- Add and update student subjects
+- Calculate average marks
+- Find highest and lowest scoring subjects
+- Generate grades
+- Check pass/fail status
+- Generate a complete student report
+
+## Concepts Used
+- Classes & Objects
+- __init__()
+- Methods
+- Dictionaries
+- Loops
+- Conditional Statements
+- Method Reuse
+
+---
 
 ## 📈 Progress Strategy
 
