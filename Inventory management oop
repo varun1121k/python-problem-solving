@@ -1,0 +1,31 @@
+class Inventory:
+    def __init__(self,products):
+        self.products = products
+    def add_product(self,name,quantity):
+        if name in self.products:
+            self.products[name] += quantity
+        else:
+            self.products[name] = quantity
+            
+    def sell_product(self,name,quantity):
+        if name not in self.products:
+            return ("product not found")
+        elif self.products[name] < quantity:
+            return("insufficient stock")
+        else:
+            self.products[name] -= quantity
+    def stock(self,name):
+        return (self.products[name])
+        
+    
+
+
+
+
+inventory = Inventory({
+    "Laptop": 5,
+    "Mouse": 10,
+    "Keyboard": 3
+})
+inventory.add_product("Laptop", 2)
+print(inventory.stock("Laptop"))
