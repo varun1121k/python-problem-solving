@@ -1,0 +1,27 @@
+class Employee:
+    def __init__(self, name, salary):
+        self.name = name
+        self.salary = salary
+
+    def show_details(self):
+        return {
+            "Name": self.name,
+            "Salary": self.salary
+        }
+
+
+class Manager(Employee):
+    def __init__(self, name, salary, department):
+        super().__init__(name, salary)
+        self.department = department
+
+    def show_details(self):
+        details = super().show_details()
+        details["Department"] = self.department
+        return details
+
+
+# Test
+manager = Manager("Varun", 50000, "AI")
+
+print(manager.show_details())
