@@ -144,6 +144,7 @@ Welcome to my Python learning repository! This repository documents my journey o
 - Working with Lists & Dictionaries inside Objects
 - Inventory management
 - multilevel_inheritance.py
+- Demonstrates encapsulation in Python using private attributes and controlled access through class methods.
 
 ---
 
